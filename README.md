@@ -9,4 +9,4 @@ This is demo repo for sharing ideas about communication
 * Three
 
 ### Gis
-This is a good example of [my code] (<script src="https://gist.github.com/Mohmmed-Badr/f5a8580434cdf90ab2657f8c734475fe.js"></script>)
+This is a good example of [my code](git@gist.github.com:f5a8580434cdf90ab2657f8c734475fe.git)
